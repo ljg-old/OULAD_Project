@@ -20,7 +20,8 @@ Data Analytics PT | Barcelona | May 2019
 - [Model](#Model)
 - [Conclusions](#conclusions)
 - [Improvements](#improvements)
-<a name="project"></a>
+
+<a name="Overview"></a>
 
 ## Overview
 
@@ -34,7 +35,7 @@ This way, we will be able to constantly improve our e-learning platform, our met
 
 In this project, we will be aplying prediction algorithms.
 
-<a name="Overview"></a>
+<a name="Data"></a>
 
 ## Data & Pre-processing
 
@@ -50,14 +51,14 @@ Regarding the pre-processing:
 - Change data types from string to integer and vice versa.
 - 
 
-<a name="Data"></a>
+<a name="EDA"></a>
 
 ## EDA
 
 In the Exploratoty Data Analysis we check the variable types and also check the distribution of the numerical ones.
 On the other hand, we check the correlation between the numerical columns.
 
-<a name="EDA"></a>
+<a name="Model"></a>
 
 ## Model
 
@@ -68,14 +69,14 @@ We tried two of them:
 - Linear regression
 - RandomForestRegressor
 
-<a name="Model"></a>
+<a name="Conclusions"></a>
 
 ## Conclusions
 
 The conclusion is that our data relations are not good enough to train and accept the model.
 We'll need to check the relationship between the tables to see if we can add more information to our data in order to improve the model.
 
-<a name="Model"></a>
+<a name="Improvements"></a>
 
 ## Improvements
 
@@ -84,6 +85,5 @@ We'll need to check the relationship between the tables to see if we can add mor
 - Interactive visualization.
 - Dig deeper into regression.
 
-<a name="Improvements"></a>
 
 
