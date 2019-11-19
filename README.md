@@ -24,13 +24,13 @@ Data Analytics PT | Barcelona | May 2019
 
 ## Overview
 
-The number of e-learning platforms has been exponentially growing over the past years (EdX, Coursera, LinkedIn, Duolingo, Miríadax, CodeAcademy, DataCamp, Mimo, Google Academy...).
+The number of <b>e-Learning</b> platforms has been exponentially growing over the past years (EdX, Coursera, LinkedIn, Duolingo, Miríadax, CodeAcademy, DataCamp, Mimo, Google Academy...).
 
-Since e-learning is a growing business, learning analytics is becoming a very important part in order to make a difference.
+Since e-Learning is a growing business, <b>learning analytics</b> is becoming a very important part in order to make a difference.
 
-We get information about users and every interaction they make with the Virtual Learning Environment. We can analyze all this data later on and using to either classify our students/customers or predict their success.
+We get information about users and every interaction they make with the <b>Virtual Learning Environment</b>. We can analyze all this data later on and using to either classify our students/customers or predict their success.
 
-This way, we will be able to constantly improve our e-learning platform, our methodology, our syllabus and many more aspects of the educational product.
+This way, we will be able to constantly improve our e-learning platform, our methodology, our syllabus and many more aspects of the <b>educational product</b>.
 
 In this project, we will be aplying prediction algorithms.
 
@@ -46,26 +46,44 @@ The dataset is named OULAD (Open University Learning Analytics Dataset) and it c
 
 Regarding the pre-processing:
 
-- Merged several tables into one final dataset.
+- Merge several tables into one final dataset.
 - Change data types from string to integer and vice versa.
 - 
 
 <a name="Data"></a>
 
 ## EDA
-...
+
+In the Exploratoty Data Analysis we check the variable types and also check the distribution of the numerical ones.
+On the other hand, we check the correlation between the numerical columns.
+
 <a name="EDA"></a>
 
 ## Model
-...
+
+We chosed to apply a <b>prediction</b> algorithm.
+
+We tried two of them:
+
+- Linear regression
+- RandomForestRegressor
+
 <a name="Model"></a>
 
 ## Conclusions
-...
+
+The conclusion is that our data relations are not good enough to train and accept the model.
+We'll need to check the relationship between the tables to see if we can add more information to our data in order to improve the model.
+
 <a name="Model"></a>
 
 ## Improvements
-...
+
+- Add more data to the model, such as Virtual Learning Environment data (clicks per page, attempts per submission...).
+- Apply classification algorithms.
+- Interactive visualization.
+- Dig deeper into regression.
+
 <a name="Improvements"></a>
 
 
