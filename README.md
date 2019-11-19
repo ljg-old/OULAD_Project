@@ -5,7 +5,7 @@ https://bit.ly/2VnXWr2
 
 
 <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj8uc3cuPblAhUMExoKHdy6DScQjRx6BAgBEAQ&url=https%3A%2F%2Fmedium.com%2F%40danielitohead%2Flearning-analytics-para-no-especialistas-justo-lo-que-necesitas-saber-d48cf94cf797&psig=AOvVaw1chcy9uhYcXi2T0Cj-SwbI&ust=1574258661442447
-" alt="Google Analytics Project" width="300"/>
+" alt="Learning Analytics" width="300"/>
 
 #  Ironhack Final Project | #EdTech Learning Analytics
 
