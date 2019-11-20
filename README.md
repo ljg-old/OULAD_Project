@@ -65,8 +65,8 @@ We chosed to apply a <b>prediction</b> algorithm.
 
 We tried two of them:
 
-- Linear regression
-- RandomForestRegressor
+- Linear regression: we reject the model as we obtained very bad results.
+- RandomForestRegressor: the model is highly overfitted.
 
 <a name="Conclusions"></a>
 
