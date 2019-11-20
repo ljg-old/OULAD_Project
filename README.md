@@ -1,6 +1,5 @@
 
-<img src="https://bit.ly/2VnXWr2(14 kB)
-https://bit.ly/2VnXWr2
+<img src="https://ironhack.school/static/ih-lms-theme/images/logo.6230fc40336b.svg
 " alt="Ironhack Logo" width="100" align="right"/>
 
 
